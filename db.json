@@ -1,7 +1,7 @@
 {
   "games": [
     {
-      "id": 1,
+      "id": "1",
       "sport": "soccer_epl",
       "commence_time": "2025-08-15T19:00:00Z",
       "home_team": "Liverpool",
@@ -495,7 +495,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": "2",
       "sport": "soccer_epl",
       "commence_time": "2025-08-16T11:30:00Z",
       "home_team": "Aston Villa",
@@ -989,7 +989,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": "3",
       "sport": "soccer_epl",
       "commence_time": "2025-08-16T14:00:00Z",
       "home_team": "Nottingham Forest",
@@ -1483,7 +1483,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": "4",
       "sport": "americanfootball_nfl",
       "commence_time": "2025-09-05T00:21:00Z",
       "home_team": "Philadelphia Eagles",
@@ -1673,7 +1673,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": "5",
       "sport": "americanfootball_nfl",
       "commence_time": "2025-09-06T00:01:00Z",
       "home_team": "Los Angeles Chargers",
@@ -1828,7 +1828,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": "6",
       "sport": "americanfootball_nfl",
       "commence_time": "2025-09-07T17:01:00Z",
       "home_team": "New Orleans Saints",
@@ -1997,7 +1997,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": "7",
       "sport": "icehockey_ahl",
       "commence_time": "2025-06-23T23:00:00Z",
       "home_team": "Charlotte Checkers",
@@ -2186,14 +2186,14 @@
       ]
     },
     {
-      "id": 8,
+      "id": "8",
       "sport": "mma_mixed_martial_arts",
       "commence_time": "2025-06-28T00:00:00Z",
       "home_team": "Dalton Rosta",
       "bookmakers": []
     },
     {
-      "id": 9,
+      "id": "9",
       "sport": "mma_mixed_martial_arts",
       "commence_time": "2025-06-28T00:00:00Z",
       "home_team": "Valentin Moldavsky",
@@ -2264,7 +2264,7 @@
       ]
     },
     {
-      "id": 10,
+      "id": "10",
       "sport": "mma_mixed_martial_arts",
       "commence_time": "2025-06-28T00:00:00Z",
       "home_team": "Antonio Carlos Junior",
@@ -2353,6 +2353,76 @@
           "gameId": 9,
           "betType": "home",
           "stake": 10
+        }
+      ]
+    },
+    {
+      "id": "0d6a",
+      "bets": [
+        {
+          "gameId": "2",
+          "betType": "home",
+          "stake": 10
+        }
+      ]
+    },
+    {
+      "id": "17a1",
+      "bets": [
+        {
+          "gameId": "2",
+          "betType": "away",
+          "stake": 10
+        }
+      ]
+    },
+    {
+      "id": "edb7",
+      "bets": [
+        {
+          "gameId": "2",
+          "betType": "home",
+          "stake": 14
+        }
+      ]
+    },
+    {
+      "id": "adad",
+      "bets": [
+        {
+          "gameId": "2",
+          "betType": "draw",
+          "stake": 10
+        }
+      ]
+    },
+    {
+      "id": "8fef",
+      "bets": [
+        {
+          "gameId": "4",
+          "betType": "away",
+          "stake": 12
+        },
+        {
+          "gameId": "2",
+          "betType": "draw",
+          "stake": 14
+        }
+      ]
+    },
+    {
+      "id": "9652",
+      "bets": [
+        {
+          "gameId": "10",
+          "betType": "home",
+          "stake": 10
+        },
+        {
+          "gameId": "1",
+          "betType": "draw",
+          "stake": 13
         }
       ]
     }
